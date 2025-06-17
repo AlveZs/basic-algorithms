@@ -6,3 +6,4 @@ Algorithms implementations for studying. Many of them based on the book "Grokkin
 - [Binary Search](https://github.com/AlveZs/basic-algorithms/tree/main/search)
 - [Quick sort](https://github.com/AlveZs/basic-algorithms/tree/main/quicksort)
 - [Breadth-first search (BFS)](https://github.com/AlveZs/basic-algorithms/tree/main/bfs)
+- [Dijkstra](https://github.com/AlveZs/basic-algorithms/tree/main/dijkstra)
